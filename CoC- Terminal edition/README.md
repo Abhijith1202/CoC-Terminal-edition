@@ -1,7 +1,7 @@
 # Clash Of Clans Ultra Lite
 
 ## Introduction
-A basic replica of Clash of Clans, with a few tweaks. This is a lightweight version of Clash of Clans that is designed to be used on a Linux device (May or may not work on Windows, as I have tested it only on windows)
+A basic replica of Clash of Clans, with a few tweaks. This is a lightweight version of Clash of Clans that is designed to be used on a Linux device (May or may not work on Windows, as I have tested it only on linux)
 
 ## How to start playing
 After extracting, just use `python3 game.py` to start the game.
